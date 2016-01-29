@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\home\\rom-pacme\\StudioProjects\\Final-Version-Lollipop-Platelogo-GingerBread-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\rom-pacme\\StudioProjects\\Final-Version-Lollipop-Platelogo-GingerBread-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\rom-pacme\\StudioProjects\\Final-Version-Lollipop-Platelogo-GingerBread-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lollipop_text.png",
+        "source": "C:\\home\\rom-pacme\\StudioProjects\\Final-Version-Lollipop-Platelogo-GingerBread-master\\app\\src\\main\\res\\drawable-hdpi\\lollipop_text.png"
+    },
+    {
+        "merged": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\MallowLogo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\MallowLogo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\NexusLogo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\NexusLogo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\NexusLogo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lollipop_text.png",
+        "source": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\NexusLogo\\app\\src\\main\\res\\drawable-hdpi\\lollipop_text.png"
+    },
+    {
+        "merged": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\MallowLogo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lollipop_text.png",
+        "source": "C:\\Users\\RAFAELEDGARDO\\Documents\\GitHub\\MallowLogo\\app\\src\\main\\res\\drawable-hdpi\\lollipop_text.png"
+    }
+]

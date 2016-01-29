@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/lolliopl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+
+
+        <ImageView
+            android:id="@+id/lollipopbg"
+            android:layout_width="290dp"
+            android:layout_height="290dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/lollipop_circle" />
+
+        <ImageView
+            android:id="@+id/light"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_alignTop="@+id/lollilpopText"
+            android:layout_alignLeft="@+id/lollipopbg"
+            android:layout_alignStart="@+id/lollipopbg" />
+
+        <ImageView
+    android:id="@+id/lollilpopText"
+            android:layout_width="240dp"
+            android:layout_height="240dp"
+            android:src="@drawable/lollipop_text"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 6.0\nMallowPop"
+            android:id="@+id/textView3"
+            android:textSize="16sp"
+            android:gravity="center_horizontal"
+            android:textStyle="normal"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="35dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
